@@ -1,0 +1,29 @@
+# Visual Studio Code settings
+.vscode/
+*.code-workspace
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# .qodo folder
+.qodo/
