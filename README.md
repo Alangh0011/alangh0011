@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="profile-banner.png" alt="Alan Banner" width="100%" />
+  <img src="./profile.png" alt="Alan Banner" width="100%" />
 </p>
 
 ---
@@ -93,18 +93,27 @@
   <a href="mailto:alangh_00@hotmail.com" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
   </a>
-  <a href="https://instagram.com/alan_gh.00" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" />
-  </a>
+  <a href="https://instagram.com/alan_gh.00" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan_gh.00" height="30" /></a>
 </p>
+
 
 ---
 
 ### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
